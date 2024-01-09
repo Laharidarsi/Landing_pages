@@ -1,2 +1,2 @@
-# Landing_pages
+A simple landing page is a single web page designed to provide visitors with essential information about a product, service, or project. It's often used as the primary entry point for a website and aims to capture the attention of visitors, convey a clear message, and encourage them to take a specific action, such as signing up, making a purchase, or exploring more content.# Landing_pages
 Simple Landing Pages
